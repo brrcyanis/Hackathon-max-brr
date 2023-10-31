@@ -1,2 +1,2 @@
-le fichier final est data dans le doc principal.
+le fichier final est datafinal dans le doc principal.
 Mathieu Toscano
