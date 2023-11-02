@@ -1,0 +1,15 @@
+D: Utilisation de la commande get_exact_cover().
+
+C: Création d'une liste comprenant toutes les lettres dans toutes les positions/rotation/symétries possibles (le tout indexé par des colones suplémentaires pour distinguer les lettres).
+
+B: Fonction qui a une lettre sous forme de matrice donne toutes ses possition possible sur le tableau donné.
+
+A: Création d'un dictionnaire qui a une lettre associe l'ensemble des rotations et symétries possibles sous formes de matrices.
+
+
+   D	#D impose la sortie de C
+   |
+   C    #C nécessite d'appliquer B sur les éléments de A, B et A doivent avoir des formats compaptibles
+  /\        
+ /  \
+A    B  
